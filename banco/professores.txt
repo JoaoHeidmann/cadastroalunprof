@@ -1,0 +1,3 @@
+juju|juju|juju
+Lucas|Lucas@gmail.com|1234|Matematica|12.0|08:00|Progamação|15.0|10:30|Enegnharia|19.0|15:00|Calculo 1|17.0|18:30
+Pedro|Pedro@gmail.com|12345|Historia|13.0|08:00|Letras|17.0|11:30|Geografia|16.0|15:00
